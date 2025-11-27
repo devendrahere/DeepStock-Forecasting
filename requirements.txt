@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+yfinance
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
